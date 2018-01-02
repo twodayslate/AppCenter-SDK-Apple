@@ -1,18 +1,18 @@
 /*
  * Update dialog buttons
  */
-"MSDistributeUpdateNow" = "Aktualizovat";
-"MSDistributeAskMeInADay" = "Zeptat se za den";
-"MSDistributeViewReleaseNotes" = "Zobrazit zprávu k vydání verze";
-"MSDistributeClose" = "Zavřít";
-"MSDistributeIgnore" = "Ignorovat";
-"MSDistributeReinstall" = "Znovu nainstalujte aplikaci";
+"MSDistributeUpdateNow" = "Update now";
+"MSDistributeAskMeInADay" = "Ask me in a day";
+"MSDistributeViewReleaseNotes" = "View release notes";
+"MSDistributeClose" = "Close";
+"MSDistributeIgnore" = "Ignore";
+"MSDistributeReinstall" = "Reinstall app";
 
 /*
  * Update dialog titles/messages
  */
-"MSDistributeAppUpdateAvailable" = "K dispozici je aktualizace aplikace.";
-"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "Vývojáři této aplikace vyžadují, abyste si nainstalovali aktualizaci %@ %@ (%@).";
-"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@) je k dispozici ke stažení a instalaci.";
-"MSDistributeInAppUpdatesAreDisabled" = "Aktualizace v aplikaci jsou zakázány.";
-"MSDistributeInstallFailedMessage" = "Tato verze byla buď strana-naložený nebo stáhnout pomocí prohlížeče v soukromém režimu.";
+"MSDistributeAppUpdateAvailable" = "App update available";
+"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "The developers of this app require you to update to %@ %@ (%@).";
+"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@) is available to download and install.";
+"MSDistributeInAppUpdatesAreDisabled" = "In-app updates disabled";
+"MSDistributeInstallFailedMessage" = "This release was either side-loaded or downloaded using a browser in private mode.";

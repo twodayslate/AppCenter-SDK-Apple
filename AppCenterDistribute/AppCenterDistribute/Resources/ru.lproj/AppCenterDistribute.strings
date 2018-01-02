@@ -1,18 +1,18 @@
 /*
  * Update dialog buttons
  */
-"MSDistributeUpdateNow" = "Обновить";
-"MSDistributeAskMeInADay" = "Спросить через день";
-"MSDistributeViewReleaseNotes" = "Просмотреть заметки о выпуске";
-"MSDistributeClose" = "Закрыть";
-"MSDistributeIgnore" = "Игнорировать";
-"MSDistributeReinstall" = "Переустановить приложение";
+"MSDistributeUpdateNow" = "Update now";
+"MSDistributeAskMeInADay" = "Ask me in a day";
+"MSDistributeViewReleaseNotes" = "View release notes";
+"MSDistributeClose" = "Close";
+"MSDistributeIgnore" = "Ignore";
+"MSDistributeReinstall" = "Reinstall app";
 
 /*
  * Update dialog titles/messages
  */
-"MSDistributeAppUpdateAvailable" = "Доступно обновление приложения";
-"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "Разработчики этого приложения требуют выполнить обновление до %@ %@ (%@).";
-"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "Обновление %@ %@ (%@) доступно для скачивания и установки.";
-"MSDistributeInAppUpdatesAreDisabled" = "Обновления в приложении отключены.";
-"MSDistributeInstallFailedMessage" = "Эта версия была либо загружена, либо загружена с помощью браузера в частном режиме.";
+"MSDistributeAppUpdateAvailable" = "App update available";
+"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "The developers of this app require you to update to %@ %@ (%@).";
+"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@) is available to download and install.";
+"MSDistributeInAppUpdatesAreDisabled" = "In-app updates disabled";
+"MSDistributeInstallFailedMessage" = "This release was either side-loaded or downloaded using a browser in private mode.";

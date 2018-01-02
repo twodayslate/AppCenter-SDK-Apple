@@ -1,18 +1,18 @@
 /*
  * Update dialog buttons
  */
-"MSDistributeUpdateNow" = "Aktualizuj teraz";
-"MSDistributeAskMeInADay" = "Zapytaj mnie jutro";
-"MSDistributeViewReleaseNotes" = "Wyświetl informacje o wersji";
-"MSDistributeClose" = "Zamknij";
-"MSDistributeIgnore" = "Zignorować";
-"MSDistributeReinstall" = "Zainstaluj ponownie aplikację";
+"MSDistributeUpdateNow" = "Update now";
+"MSDistributeAskMeInADay" = "Ask me in a day";
+"MSDistributeViewReleaseNotes" = "View release notes";
+"MSDistributeClose" = "Close";
+"MSDistributeIgnore" = "Ignore";
+"MSDistributeReinstall" = "Reinstall app";
 
 /*
  * Update dialog titles/messages
  */
-"MSDistributeAppUpdateAvailable" = "Dostępna jest aktualizacja aplikacji";
-"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "Deweloperzy tej aplikacji wymagają przeprowadzenia aktualizacji do: %@ %@ (%@).";
-"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "Aplikacja %@ %@ (%@) jest dostępna do pobrania i zainstalowania.";
-"MSDistributeInAppUpdatesAreDisabled" = "Aktualizacje w aplikacji są wyłączone.";
-"MSDistributeInstallFailedMessage" = "To wydanie zostało albo po stronie-załadowany lub pobrany za pomocą przeglądarki w trybie prywatnym.";
+"MSDistributeAppUpdateAvailable" = "App update available";
+"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "The developers of this app require you to update to %@ %@ (%@).";
+"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@) is available to download and install.";
+"MSDistributeInAppUpdatesAreDisabled" = "In-app updates disabled";
+"MSDistributeInstallFailedMessage" = "This release was either side-loaded or downloaded using a browser in private mode.";

@@ -1,18 +1,18 @@
 /*
  * Update dialog buttons
  */
-"MSDistributeUpdateNow" = "Şimdi güncelleştir";
-"MSDistributeAskMeInADay" = "Bir gün içinde sor";
-"MSDistributeViewReleaseNotes" = "Sürüm notlarını görüntüle";
-"MSDistributeClose" = "Kapat";
-"MSDistributeIgnore" = "Görmezden";
-"MSDistributeReinstall" = "Uygulamayı yeniden yükle";
+"MSDistributeUpdateNow" = "Update now";
+"MSDistributeAskMeInADay" = "Ask me in a day";
+"MSDistributeViewReleaseNotes" = "View release notes";
+"MSDistributeClose" = "Close";
+"MSDistributeIgnore" = "Ignore";
+"MSDistributeReinstall" = "Reinstall app";
 
 /*
  * Update dialog titles/messages
  */
-"MSDistributeAppUpdateAvailable" = "Uygulama güncelleştirmesi kullanılabilir";
-"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "Bu uygulamanın geliştiricileri %@ %@ (%@) sürümüne güncelleştirmenizi gerektiriyor.";
-"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@), indirme ve yükleme için hazır.";
-"MSDistributeInAppUpdatesAreDisabled" = "Uygulama içi güncelleştirmeler devre dışı.";
-"MSDistributeInstallFailedMessage" = "Bu sürüm ya yan yüklenen veya özel modda bir tarayıcı kullanılarak indirilmiş.";
+"MSDistributeAppUpdateAvailable" = "App update available";
+"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "The developers of this app require you to update to %@ %@ (%@).";
+"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@) is available to download and install.";
+"MSDistributeInAppUpdatesAreDisabled" = "In-app updates disabled";
+"MSDistributeInstallFailedMessage" = "This release was either side-loaded or downloaded using a browser in private mode.";

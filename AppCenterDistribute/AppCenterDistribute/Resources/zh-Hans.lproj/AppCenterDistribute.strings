@@ -1,18 +1,18 @@
 /*
  * Update dialog buttons
  */
-"MSDistributeUpdateNow" = "立即更新";
-"MSDistributeAskMeInADay" = "一天内询问我";
-"MSDistributeViewReleaseNotes" = "查看发布说明";
-"MSDistributeClose" = "关闭";
-"MSDistributeIgnore" = "忽略";
-"MSDistributeReinstall" = "重新安装应用程序";
+"MSDistributeUpdateNow" = "Update now";
+"MSDistributeAskMeInADay" = "Ask me in a day";
+"MSDistributeViewReleaseNotes" = "View release notes";
+"MSDistributeClose" = "Close";
+"MSDistributeIgnore" = "Ignore";
+"MSDistributeReinstall" = "Reinstall app";
 
 /*
  * Update dialog titles/messages
  */
-"MSDistributeAppUpdateAvailable" = "可用的应用更新";
-"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "应用被要求更新为 %@ %@ (%@)。";
-"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@) 可供下载和安装。";
-"MSDistributeInAppUpdatesAreDisabled" = "已禁用应用内更新。";
-"MSDistributeInstallFailedMessage" = "此版本要么是侧面加载, 要么是在专用模式下使用浏览器下载的。";
+"MSDistributeAppUpdateAvailable" = "App update available";
+"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "The developers of this app require you to update to %@ %@ (%@).";
+"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@) is available to download and install.";
+"MSDistributeInAppUpdatesAreDisabled" = "In-app updates disabled";
+"MSDistributeInstallFailedMessage" = "This release was either side-loaded or downloaded using a browser in private mode.";

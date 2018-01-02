@@ -1,18 +1,18 @@
 /*
  * Update dialog buttons
  */
-"MSDistributeUpdateNow" = "今すぐ更新";
-"MSDistributeAskMeInADay" = "明日また知らせる";
-"MSDistributeViewReleaseNotes" = "リリース ノートの表示";
-"MSDistributeClose" = "閉じる";
-"MSDistributeIgnore" = "無視";
-"MSDistributeReinstall" = "アプリの再インストール";
+"MSDistributeUpdateNow" = "Update now";
+"MSDistributeAskMeInADay" = "Ask me in a day";
+"MSDistributeViewReleaseNotes" = "View release notes";
+"MSDistributeClose" = "Close";
+"MSDistributeIgnore" = "Ignore";
+"MSDistributeReinstall" = "Reinstall app";
 
 /*
  * Update dialog titles/messages
  */
-"MSDistributeAppUpdateAvailable" = "アプリの更新プログラムが利用可能です";
-"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "このアプリの開発者から、%@ %@ (%@) に更新するよう求められています。";
-"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@) をダウンロードしてインストールできます。";
-"MSDistributeInAppUpdatesAreDisabled" = "アプリ内更新は無効です。";
-"MSDistributeInstallFailedMessage" = "このリリースは、プライベートモードでブラウザを使用してサイドローディングまたはダウンロードされました。";
+"MSDistributeAppUpdateAvailable" = "App update available";
+"MSDistributeAppUpdateAvailableMandatoryUpdateMessage" = "The developers of this app require you to update to %@ %@ (%@).";
+"MSDistributeAppUpdateAvailableOptionalUpdateMessage" = "%@ %@ (%@) is available to download and install.";
+"MSDistributeInAppUpdatesAreDisabled" = "In-app updates disabled";
+"MSDistributeInstallFailedMessage" = "This release was either side-loaded or downloaded using a browser in private mode.";
